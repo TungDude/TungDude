@@ -5,18 +5,29 @@ I'm a **Junior** at **Chulalongkorn University**, majoring in **Information and 
 ## ⚡ Tech Stack & Skills
 
 ### Full-Stack Web Development
-- **Languages**: TypeScript, JavaScript, Python
-- **Frontend**: React.js, Next.js, Svelte, HTMX, AlpineJS, HTML, CSS, Tailwind CSS
-- **Backend**: Flask, Odoo, Node.js, Express.js
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **DevOps & Tools**: Docker, Git, GitHub
+
+#### Languages
+[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,python)](https://skillicons.dev)
+
+#### Frontend
+[![Frontend framework](https://skillicons.dev/icons?i=htmx,alpinejs,svelte,react,nextjs,tailwindcss)](https://skillicons.dev)
+
+#### Backend
+[![Backend framework](https://skillicons.dev/icons?i=expressjs,nodejs,flask)](https://skillicons.dev)
+
+#### Database
+[![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma)](https://skillicons.dev)
+
+#### Tools
+[![DevOpsTools](https://skillicons.dev/icons?i=docker,git,github,postman,npm,pnpm,vscode,figma)](https://skillicons.dev)
 
 ### Other Skills
-- **Languages**: C, Java
-- **Automation**: Selenium
-- **GUI Development**: PyQt
-- **Data Visualization**: Pandas, Seaborn, Matplotlib
-- **Machine Learning**: TensorFlow, CNN, YOLO
+[![Others](https://skillicons.dev/icons?i=c,java,selenium,qt,tensorflow,discord,bots)](https://skillicons.dev)
+
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
 
 ## 🎯 Main Focus Right Now
 - Deepening expertise in Software Development.
