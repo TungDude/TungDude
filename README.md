@@ -1,28 +1,27 @@
 # Hi there, I'm Tung 👋
 
-I'm currently a **Junior** at **Chulalongkorn University**, studying **Information and Communication Engineering**. I'm passionate about **Software Development**, and I'm always excited to learn and grow in the tech field.
+I'm a **Junior** at **Chulalongkorn University**, majoring in **Information and Communication Engineering**. I'm passionate about **Software Development**, and I'm always excited to learn and grow in the tech field.
 
-## ⚡ Skills & Technologies
+## ⚡ Tech Stack & Skills
 
 ### Full-Stack Web Development
-- **Languages**: Python, JavaScript, TypeScript
-- **Frontend**: React.js, Next.js, Tailwind CSS
+- **Languages**: TypeScript, JavaScript, Python
+- **Frontend**: React.js, Next.js, Svelte, HTMX, AlpineJS, HTML, CSS, Tailwind CSS
 - **Backend**: Flask, Odoo, Node.js, Express.js
-- **Databases**: SQL, MongoDB
-- **DevOps**: Docker
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **DevOps & Tools**: Docker, Git, GitHub
 
 ### Other Skills
 - **Languages**: C, Java
-- **Version Control**: Git
 - **Automation**: Selenium
 - **GUI Development**: PyQt
 - **Data Visualization**: Pandas, Seaborn, Matplotlib
 - **Machine Learning**: TensorFlow, CNN, YOLO
 
 ## 🎯 Main Focus Right Now
-- Exploring the field of Software Development.
-- Diving deeper into Full-Stack Web Development.
-- Beginning to explore Machine Learning and Data Science.
+- Deepening expertise in Software Development.
+- Building real-world applications.
+- Exploring Data science and Machine learning.
 
 Feel free to check out my repositories, and don't hesitate to connect if you'd like to collaborate or chat!
 
