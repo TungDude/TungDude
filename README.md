@@ -13,7 +13,10 @@ I'm a **Junior** at **Chulalongkorn University**, majoring in **Information and 
 [![Frontend framework](https://skillicons.dev/icons?i=htmx,alpinejs,svelte,react,nextjs,tailwindcss)](https://skillicons.dev)
 
 #### Backend
-[![Backend framework](https://skillicons.dev/icons?i=expressjs,nodejs,flask)](https://skillicons.dev)
+[![Backend framework](https://skillicons.dev/icons?i=express,nodejs,flask)](https://skillicons.dev)
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/odoo.png" height="50"/>
+
+
 
 #### Database
 [![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma)](https://skillicons.dev)
