@@ -1,31 +1,28 @@
 # Hi there, I'm Tung 👋
 
-I'm a **Junior** at **Chulalongkorn University**, majoring in **Information and Communication Engineering**. I'm passionate about **Software Development**, and I'm always excited to learn and grow in the tech field.
+I'm a **Senior** at **Chulalongkorn University**, majoring in **Information and Communication Engineering**. I'm passionate about **Software Development**, and I'm always excited to learn and grow in the tech field.
 
 ## ⚡ Tech Stack & Skills
 
 ### Full-Stack Web Development
 
-#### Languages
-[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,python)](https://skillicons.dev)
-
 #### Frontend
 [![Frontend framework](https://skillicons.dev/icons?i=htmx,alpinejs,svelte,react,nextjs,tailwindcss)](https://skillicons.dev)
 
 #### Backend
-[![Backend framework](https://skillicons.dev/icons?i=express,nodejs,flask)](https://skillicons.dev)
+[![Backend framework](https://skillicons.dev/icons?i=express,nodejs,go,flask)](https://skillicons.dev)
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/odoo.png" height="50"/>
 
 
 
 #### Database
-[![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma)](https://skillicons.dev)
 
 #### Tools
 [![DevOpsTools](https://skillicons.dev/icons?i=docker,git,github,postman,npm,pnpm,vscode,figma)](https://skillicons.dev)
 
 ### Other Skills
-[![Others](https://skillicons.dev/icons?i=c,java,selenium,qt,tensorflow,discord,bots)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=js,ts,html,css,python,c,java,selenium,qt,tensorflow,discord,bots)](https://skillicons.dev)
 
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
