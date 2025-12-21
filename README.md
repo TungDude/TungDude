@@ -10,7 +10,7 @@ I'm a **Senior** at **Chulalongkorn University**, majoring in **Information and 
 [![Frontend framework](https://skillicons.dev/icons?i=htmx,alpinejs,svelte,react,nextjs,tailwindcss)](https://skillicons.dev)
 
 #### Backend
-[![Backend framework](https://skillicons.dev/icons?i=express,nodejs,go,flask)](https://skillicons.dev)
+[![Backend framework](https://skillicons.dev/icons?i=express,nestjs,nodejs,go,flask)](https://skillicons.dev)
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/odoo.png" height="50"/>
 
 
