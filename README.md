@@ -1,16 +1,16 @@
 # Hi there, I'm Tung 👋
 
-I'm a **Senior** at **Chulalongkorn University**, majoring in **Information and Communication Engineering**. I'm passionate about **Software Development**, and I'm always excited to learn and grow in the tech field.
+I'm a **Graduate** from **Chulalongkorn University**, majored in **Information and Communication Engineering**. I'm passionate about **Software Development**, and I'm always excited to learn and grow in the tech field.
 
 ## ⚡ Tech Stack & Skills
 
 ### Full-Stack Web Development
 
 #### Frontend
-[![Frontend framework](https://skillicons.dev/icons?i=htmx,alpinejs,svelte,react,nextjs,tailwindcss)](https://skillicons.dev)
+[![Frontend framework](https://skillicons.dev/icons?i=react,nextjs,htmx,alpinejs,svelte,angular,tailwindcss)](https://skillicons.dev)
 
 #### Backend
-[![Backend framework](https://skillicons.dev/icons?i=express,nestjs,nodejs,go,flask)](https://skillicons.dev)
+[![Backend framework](https://skillicons.dev/icons?i=express,nestjs,nodejs,go,flask,dotnet)](https://skillicons.dev)
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/odoo.png" height="50"/>
 
 
@@ -19,7 +19,7 @@ I'm a **Senior** at **Chulalongkorn University**, majoring in **Information and 
 [![Database](https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma)](https://skillicons.dev)
 
 #### Tools
-[![DevOpsTools](https://skillicons.dev/icons?i=docker,git,github,postman,npm,pnpm,vscode,figma)](https://skillicons.dev)
+[![DevOpsTools](https://skillicons.dev/icons?i=docker,git,github,gitlab,postman,npm,pnpm,vite,vscode,figma)](https://skillicons.dev)
 
 ### Other Skills
 [![Others](https://skillicons.dev/icons?i=js,ts,html,css,python,c,java,selenium,qt,tensorflow,discord,bots)](https://skillicons.dev)
@@ -32,7 +32,7 @@ I'm a **Senior** at **Chulalongkorn University**, majoring in **Information and 
 ## 🎯 Main Focus Right Now
 - Deepening expertise in Software Development.
 - Building real-world applications.
-- Exploring Data science and Machine learning.
+- Accelerating development with AI workflows.
 
 Feel free to check out my repositories, and don't hesitate to connect if you'd like to collaborate or chat!
 
